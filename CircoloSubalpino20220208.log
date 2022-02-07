@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  7 FEB 2022 00:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  7 FEB 2022 19:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1771,7 +1771,7 @@ d.
 Here is how much of TeX's memory you used:
  20254 strings out of 480608
  383347 string characters out of 5903631
- 657095 words of memory out of 5000000
+ 657097 words of memory out of 5000000
  35563 multiletter control sequences out of 15000+600000
  571460 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1782,7 +1782,7 @@ live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on CircoloSubalpino20220208.pdf (20 pages, 2196000 bytes).
+Output written on CircoloSubalpino20220208.pdf (20 pages, 2195580 bytes).
 PDF statistics:
  1151 PDF objects out of 1200 (max. 8388607)
  1057 compressed objects within 11 object streams
