@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  7 FEB 2022 19:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  7 FEB 2022 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -961,13 +961,7 @@ Package pdftex.def Info: abm.png  used on input line 93.
 
 ] [4
 
-]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-49.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-[5
+] [5
 
 ] [6
 
@@ -1769,11 +1763,11 @@ d.
 (rerunfilecheck)             Checksum: 814BE729C0E7DD8C9B51C88D8C1AA650;487.
  ) 
 Here is how much of TeX's memory you used:
- 20254 strings out of 480608
- 383347 string characters out of 5903631
- 657097 words of memory out of 5000000
- 35563 multiletter control sequences out of 15000+600000
- 571460 words of font info for 70 fonts, out of 8000000 for 9000
+ 20229 strings out of 480608
+ 382971 string characters out of 5903631
+ 657094 words of memory out of 5000000
+ 35542 multiletter control sequences out of 15000+600000
+ 571146 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,19n,67p,791b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1782,7 +1776,7 @@ live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on CircoloSubalpino20220208.pdf (20 pages, 2195580 bytes).
+Output written on CircoloSubalpino20220208.pdf (20 pages, 2194597 bytes).
 PDF statistics:
  1151 PDF objects out of 1200 (max. 8388607)
  1057 compressed objects within 11 object streams
